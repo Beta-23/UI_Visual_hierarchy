@@ -12,10 +12,11 @@ body {
 }
 
 h1 {
-    font-size: 1.1em;
+    font-size: 3em;
 }
 
 .form-container {
+    background: #6900F3;
     padding: 2em;
     display: grid;
     grid-template-columns: 70% auto;
@@ -51,15 +52,6 @@ p {
     grid-area: info;
 }
 
-
-
-h1 {
-    
-}
-
-.form-container {
-    
-}
 
 label {
     
