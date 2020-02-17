@@ -29,7 +29,8 @@ h1 {
 
 label {
     display: block;
-    font-size: 1.1em;
+    font-weight: bold;
+    font-size: 1.2em;
     grid-area: label;
     margin-bottom: .8em;
 }
@@ -41,10 +42,11 @@ input[type=text]{
 
 input[type=submit] {
     padding: .5em;
-    font-size: .8em;
-    background: none;
-    border: 1px solid white;
-    color: white;
+    font-size: 1em;
+    background: #ffd27f;
+    border: none;
+    color: #5801CB;
+    font-weight: bold;
     cursor: pointer;
 }
 
