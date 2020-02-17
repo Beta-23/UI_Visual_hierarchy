@@ -52,17 +52,5 @@ input[type=submit] {
 
 p {
     grid-area: info;
-}
-
-
-label {
-    
-}
-
-input[type=submit] {
-    
-}
-
-p {
-    
+    color: #CAA2FF;
 }
