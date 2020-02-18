@@ -45,7 +45,7 @@ input[type=submit] {
     font-size: 1em;
     background: #ffd27f;
     border: none;
-    color: #5801CB;
+    color: blue;
     font-weight: bold;
     cursor: pointer;
 }
